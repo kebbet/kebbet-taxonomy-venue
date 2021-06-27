@@ -3,7 +3,7 @@
  * Plugin Name:       Kebbet plugins - custom taxonomy: venue
  * Plugin URI:        https://github.com/kebbet/kebbet-taxonomy-venue
  * Description:       Register the custom taxonomy venue
- * Version:           20210605.01
+ * Version:           20210627.01
  * Author:            Erik Betshammar
  * Author URI:        https://verkan.se
  * Requires at least: 5.7
