@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kebbet plugins - custom taxonomy: venue\n"
+"POT-Creation-Date: 2021-08-09 10:23+0200\n"
+"PO-Revision-Date: 2021-08-09 10:25+0200\n"
+"Last-Translator: Erik Betshammar <info@verkan.se>\n"
+"Language-Team: Erik Betshammar <info@verkan.se>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: kebbet-taxonomy-venue.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: kebbet-taxonomy-venue.php:57
+msgctxt "taxonomy general name"
+msgid "Venues"
+msgstr "Venues"
+
+#: kebbet-taxonomy-venue.php:58
+msgid "Venues"
+msgstr "Venues"
+
+#: kebbet-taxonomy-venue.php:59
+msgctxt "taxonomy singular name"
+msgid "Venue"
+msgstr "Venue"
+
+#: kebbet-taxonomy-venue.php:60
+msgid "All venue tags"
+msgstr "Alle venue-tags"
+
+#: kebbet-taxonomy-venue.php:61
+msgid "Edit tag"
+msgstr "Rediger tag"
+
+#: kebbet-taxonomy-venue.php:62
+msgid "View tag"
+msgstr "Vis tag"
+
+#: kebbet-taxonomy-venue.php:63
+msgid "Update tag"
+msgstr "Opdater tag"
+
+#: kebbet-taxonomy-venue.php:64
+msgid "Add new tag"
+msgstr "Tilføj nyt tag"
+
+#: kebbet-taxonomy-venue.php:65
+msgid "New tag name"
+msgstr "Nyt tagnavn"
+
+#: kebbet-taxonomy-venue.php:66
+msgid "Separate venue tags with commas"
+msgstr "Adskil vunue-tags med kommaer"
+
+#: kebbet-taxonomy-venue.php:67
+msgid "Search tags"
+msgstr "Søg tags"
+
+#: kebbet-taxonomy-venue.php:68
+msgid "Add or remove tags"
+msgstr "Tilføj eller fjern tags"
+
+#: kebbet-taxonomy-venue.php:69
+msgid "Choose from the most used venue tags"
+msgstr "Vælg mellem de mest anvendte venue-tags"
+
+#: kebbet-taxonomy-venue.php:70
+msgid "No tags found."
+msgstr "Der blev ikke fundet nogen tags."
+
+#: kebbet-taxonomy-venue.php:71
+msgid "Popular tags"
+msgstr "Populære tags"
+
+#: kebbet-taxonomy-venue.php:72
+msgid "Parent tag"
+msgstr ""
+
+#: kebbet-taxonomy-venue.php:73
+msgid "Parent tag:"
+msgstr ""
+
+#: kebbet-taxonomy-venue.php:74
+msgid "&larr; Back to tags"
+msgstr "← Tilbage til tags"
+
+#: kebbet-taxonomy-venue.php:97
+msgid "Venue tags."
+msgstr "Vnue-tags."
+
+#. Plugin Name of the plugin/theme
+msgid "Kebbet plugins - custom taxonomy: venue"
+msgstr "Kebbet plugins - brugerdefineret taksonomi: ventes"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/kebbet/kebbet-taxonomy-venue"
+msgstr "https://github.com/kebbet/kebbet-taxonomy-venue"
+
+#. Description of the plugin/theme
+msgid "Register the custom taxonomy venue"
+msgstr "Registrer det brugerdefinerede taksonomi: ventes"
+
+#. Author of the plugin/theme
+msgid "Erik Betshammar"
+msgstr "Erik Betshammar"
+
+#. Author URI of the plugin/theme
+msgid "https://verkan.se"
+msgstr "https://verkan.se"
