@@ -75,8 +75,8 @@ function register() {
 	);
 
 	$capabilities = array(
-		'manage_terms' => 'manage_categories', // Previous 'manage_options'.
-		'edit_terms'   => 'manage_categories', // Previous 'manage_options'.
+		'manage_terms' => 'publish_posts', // Previous 'manage_options'.
+		'edit_terms'   => 'publish_posts', // Previous 'manage_options'.
 		'delete_terms' => 'manage_categories', // Previous 'manage_options'.
 		'assign_terms' => 'publish_posts',
 	);
