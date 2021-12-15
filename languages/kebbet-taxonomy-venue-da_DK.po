@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Kebbet plugins - custom taxonomy: venue\n"
-"POT-Creation-Date: 2021-08-09 10:23+0200\n"
-"PO-Revision-Date: 2021-08-09 10:25+0200\n"
+"POT-Creation-Date: 2021-12-15 10:24+0100\n"
+"PO-Revision-Date: 2021-12-15 10:33+0100\n"
 "Last-Translator: Erik Betshammar <info@verkan.se>\n"
 "Language-Team: Erik Betshammar <info@verkan.se>\n"
 "Language: da_DK\n"
@@ -16,86 +16,108 @@ msgstr ""
 "X-Poedit-WPHeader: kebbet-taxonomy-venue.php\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
-"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
-"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.min.js\n"
 
-#: kebbet-taxonomy-venue.php:57
+#: kebbet-taxonomy-venue.php:58
 msgctxt "taxonomy general name"
 msgid "Venues"
 msgstr "Venues"
 
-#: kebbet-taxonomy-venue.php:58
+#: kebbet-taxonomy-venue.php:59
 msgid "Venues"
 msgstr "Venues"
 
-#: kebbet-taxonomy-venue.php:59
+#: kebbet-taxonomy-venue.php:60
 msgctxt "taxonomy singular name"
 msgid "Venue"
 msgstr "Venue"
 
-#: kebbet-taxonomy-venue.php:60
+#: kebbet-taxonomy-venue.php:61
 msgid "All venue tags"
 msgstr "Alle venue-tags"
 
-#: kebbet-taxonomy-venue.php:61
+#: kebbet-taxonomy-venue.php:62
 msgid "Edit tag"
 msgstr "Rediger tag"
 
-#: kebbet-taxonomy-venue.php:62
+#: kebbet-taxonomy-venue.php:63
 msgid "View tag"
 msgstr "Vis tag"
 
-#: kebbet-taxonomy-venue.php:63
+#: kebbet-taxonomy-venue.php:64
 msgid "Update tag"
 msgstr "Opdater tag"
 
-#: kebbet-taxonomy-venue.php:64
+#: kebbet-taxonomy-venue.php:65
 msgid "Add new tag"
 msgstr "Tilføj nyt tag"
 
-#: kebbet-taxonomy-venue.php:65
+#: kebbet-taxonomy-venue.php:66
 msgid "New tag name"
 msgstr "Nyt tagnavn"
 
-#: kebbet-taxonomy-venue.php:66
+#: kebbet-taxonomy-venue.php:67
 msgid "Separate venue tags with commas"
 msgstr "Adskil vunue-tags med kommaer"
 
-#: kebbet-taxonomy-venue.php:67
+#: kebbet-taxonomy-venue.php:68
 msgid "Search tags"
 msgstr "Søg tags"
 
-#: kebbet-taxonomy-venue.php:68
+#: kebbet-taxonomy-venue.php:69
 msgid "Add or remove tags"
 msgstr "Tilføj eller fjern tags"
 
-#: kebbet-taxonomy-venue.php:69
+#: kebbet-taxonomy-venue.php:70
 msgid "Choose from the most used venue tags"
 msgstr "Vælg mellem de mest anvendte venue-tags"
 
-#: kebbet-taxonomy-venue.php:70
+#: kebbet-taxonomy-venue.php:71
 msgid "No tags found."
 msgstr "Der blev ikke fundet nogen tags."
 
-#: kebbet-taxonomy-venue.php:71
+#: kebbet-taxonomy-venue.php:72
 msgid "Popular tags"
 msgstr "Populære tags"
 
-#: kebbet-taxonomy-venue.php:72
-msgid "Parent tag"
-msgstr ""
-
 #: kebbet-taxonomy-venue.php:73
-msgid "Parent tag:"
-msgstr ""
+msgid "Parent tag"
+msgstr "Overordnet tag"
 
 #: kebbet-taxonomy-venue.php:74
+msgid "Parent tag:"
+msgstr "Overordnet tag:"
+
+#: kebbet-taxonomy-venue.php:75
 msgid "&larr; Back to tags"
 msgstr "← Tilbage til tags"
 
-#: kebbet-taxonomy-venue.php:97
+#: kebbet-taxonomy-venue.php:76
+msgid "The name is how it appears on the site and in the user interface."
+msgstr "Navnet er, hvordan det ser ud på webstedet og brugergrænsefladen."
+
+#: kebbet-taxonomy-venue.php:77
+msgid ""
+"The &#8220;slug&#8221; is a sanitized version of the name. It is usually all "
+"lowercase and contains only letters, numbers, and hyphens. Do not change if "
+"not needed."
+msgstr ""
+"”Korttitel” er en desinficeret version af navnet. Den indeholder kun små "
+"bogstaver, tal og bindestreger. Du må ikke ændre, hvis det ikke er "
+"nødvendigt."
+
+#: kebbet-taxonomy-venue.php:78
+msgid ""
+"Fill in the real address with the venue name on the first row. Used for "
+"generating Google Maps on posts."
+msgstr ""
+"Udfyld den rigtige adresse med Venue-navn på første række. Bruges til at "
+"generere Google Maps på indlæg."
+
+#: kebbet-taxonomy-venue.php:100
 msgid "Venue tags."
 msgstr "Vnue-tags."
 
@@ -118,3 +140,6 @@ msgstr "Erik Betshammar"
 #. Author URI of the plugin/theme
 msgid "https://verkan.se"
 msgstr "https://verkan.se"
+
+#~ msgid "The description is not used for Dansehallerne."
+#~ msgstr "Beskrivelsen bruges ikke til Dansehallerne."

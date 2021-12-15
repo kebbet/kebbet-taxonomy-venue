@@ -73,6 +73,9 @@ function register() {
 		'parent_item'                => __( 'Parent tag', 'kebbet-taxonomy-venue' ),
 		'parent_item_colon'          => __( 'Parent tag:', 'kebbet-taxonomy-venue' ),
 		'back_to_items'              => __( '&larr; Back to tags', 'kebbet-taxonomy-venue' ),
+		'name_field_description'     => __( 'The name is how it appears on the site and in the user interface.', 'kebbet-taxonomy-venue' ),
+		'slug_field_description'     => __( 'The &#8220;slug&#8221; is a sanitized version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens. Do not change if not needed.', 'kebbet-taxonomy-venue' ),
+		'desc_field_description'     => __( 'Fill in the real address with the venue name on the first row. Used for generating Google Maps on posts.', 'kebbet-taxonomy-venue' ),
 	);
 
 	$capabilities = array(
